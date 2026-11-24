@@ -76,7 +76,7 @@ Research-grade iNaturalist observations with Creative Commons-licensed photos, r
 | SciPy | 1.18.1 |
 | scikit-learn | 1.9.1 |
 | matplotlib | 3.11.2 |
-| requests | [version] |
+| requests | 2.32.4 |
 | Fiji (ImageJ) | 1.54t |
 
 ## How to Reproduce the Analysis
