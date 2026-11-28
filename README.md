@@ -131,7 +131,7 @@ The ratio distributions of the two species overlap extensively, and few *C. scut
 - [x] Draft report
 
 **Remaining**
-- [ ] Round 2 blinded re-measurement
+- [x] Round 2 blinded re-measurement
 - [ ] Repeatability analysis (ICC, Bland–Altman, % changing class)
 - [ ] Time permitting: zero-shot multimodal LLM on the test set
 - [ ] Finalize repository documentation
