@@ -1,0 +1,16 @@
+name: crotalus-tailbands
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pandas=3.0.5
+  - numpy=2.5.3
+  - scipy=1.18.1
+  - scikit-learn=1.9.1
+  - matplotlib=3.11.2
+  - requests=2.32.4
+  - pip
+  - pip:
+      - pyinaturalist==0.21.1
+# Measurements were made in Fiji (ImageJ 1.54t), a standalone application
+# not installed through conda: https://imagej.net/software/fiji/downloads
